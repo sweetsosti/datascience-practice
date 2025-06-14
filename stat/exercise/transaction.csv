@@ -1,0 +1,274 @@
+﻿Transaction Status,Id,Payment Type,Rec Date,Beneficiary Name,Amount,Channel Id,Particulars,Debit Status,Debit Reason Description,Credit Reason Description
+Success,419883183,Fund Transfer,"10/06/2025, 15:57:45",Chhatradevi Trading and suppliers pvt.lt d.,"5,24,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,419723027,nQR,"10/06/2025, 12:00:45",PRIME MOTORS PVT.LTD,"16,150.00",Mobile App,PRIME MOTORS PVT.LTD,Success,SUCCESS,SUCCESS
+Success,419693945,Fund Transfer,"10/06/2025, 11:18:48",bhim bahadur khatri,"45,000.00",Web Channel,salary,Success,SUCCESS,SUCCESS
+Success,419341381,Fund Transfer,"09/06/2025, 16:24:25",Chhatradevi Trading and suppliers pvt.lt d.,"6,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,419222080,Fund Transfer,"09/06/2025, 13:22:56",Suraj kumar thapa,"13,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,419098771,Fund Transfer,"09/06/2025, 09:47:33",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,418864403,Fund Transfer,"08/06/2025, 15:18:27",HIRA ADHIKARI,"10,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,418566702,Fund Transfer,"07/06/2025, 19:57:12",Gaire international,"1,23,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,418523445,Fund Transfer,"07/06/2025, 16:58:45",BHUSAL OIL CENTER,"50,000.00",Web Channel,amat,Success,SUCCESS,SUCCESS
+Success,418158938,Fund Transfer,"06/06/2025, 13:07:43",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,418120340,Fund Transfer,"06/06/2025, 12:06:02",HUM BAHADUR SUNAR,"70,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,417833324,Fund Transfer,"05/06/2025, 16:30:02",Bhusal Disels,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,417600036,Fund Transfer,"05/06/2025, 08:40:44",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,417457530,Fund Transfer,"04/06/2025, 18:12:42",New banganga crusher udyog,"14,850.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,417265880,Fund Transfer,"04/06/2025, 11:57:41",Om Ekata Baluwa Prasodhan Udhyog,"1,74,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,417254144,Fund Transfer,"04/06/2025, 11:35:37",BHUSAL OIL CENTER,"50,000.00",Web Channel,basanta bhusal,Success,SUCCESS,SUCCESS
+Success,417193729,Fund Transfer,"04/06/2025, 09:10:53",BHUSAL OIL CENTER,"10,000.00",Web Channel,amar nirnan sewa,Success,SUCCESS,SUCCESS
+Success,416876956,Fund Transfer,"03/06/2025, 14:38:39",MAN KUMARI KHADKA,"19,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,416840788,Fund Transfer,"03/06/2025, 13:33:30",New banganga crusher udyog,"14,850.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,416002322,Fund Transfer,"01/06/2025, 15:11:56",MOHAMMAD ANSARUL,"20,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,415975328,Fund Transfer,"01/06/2025, 14:14:04",Swastika Bhusal,"10,500.00",Web Channel,amar nirman sewaa,Success,SUCCESS,SUCCESS
+Success,415965859,Fund Transfer,"01/06/2025, 13:52:14",New banganga crusher udyog,"55,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,415910228,Fund Transfer,"01/06/2025, 11:57:39",GOVINDA SIJALI,"10,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,415843465,Fund Transfer,"01/06/2025, 09:23:28",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,415838063,Fund Transfer,"01/06/2025, 08:58:41",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,415744709,Fund Transfer,"31/05/2025, 18:52:52",ROSHAN CHEETRI,"3,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,415743565,Fund Transfer,"31/05/2025, 18:48:23",New banganga crusher udyog,"49,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,415608551,Fund Transfer,"31/05/2025, 09:01:17",HIRA ADHIKARI,"15,000.00",Mobile App,Amarnirmansewa,Failed,Debit Failure.,Debit Failure.
+Success,415557527,Bills Payment,"31/05/2025, 07:08:03",Shree Airlines B2C,"10,000.00",Web Channel,Flight booking for SAOW1748654463294,Success,SUCCESS,SUCCESS
+Success,413720044,Fund Transfer,"30/05/2025, 13:24:27",Basanta prasad bhusal,"1,25,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,413672927,Fund Transfer,"30/05/2025, 13:03:16",Swastika Bhusal,"1,03,176.00",Web Channel,swastika bhusal,Success,SUCCESS,SUCCESS
+Success,413577375,Fund Transfer,"30/05/2025, 12:21:31",Swastika Bhusal,"97,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,413571608,Fund Transfer,"30/05/2025, 12:18:56",Swastika Bhusal,"97,000.00",Web Channel,amar nirman sewa,Timeout,Debit Failure.,Debit Failure.
+Success,413366854,Fund Transfer,"30/05/2025, 10:39:19",BHUSAL OIL CENTER,"10,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,413335092,Fund Transfer,"30/05/2025, 10:23:52",Acharya Hotel And Lodge,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,413309965,Fund Transfer,"30/05/2025, 10:08:11",DIPAK GANDHARBA,"1,00,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Failed,411818047,Fund Transfer,"29/05/2025, 21:08:32",Acharya Hotel And Lodge,"50,000.00",Mobile App,Amar Nirman Sewa,Failed,Debit Failure.,Debit Failure.
+Success,408885085,Fund Transfer,"28/05/2025, 15:22:43",Kapilvastu Concrete industries pvt ltd,"2,00,000.00",Web Channel,amar nurman sewa,Success,SUCCESS,SUCCESS
+Success,408838063,Fund Transfer,"28/05/2025, 13:43:55",RISHAV  GAIRE,"81,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,408788023,Bills Payment,"28/05/2025, 12:07:04",Nepal Telecom Topup,"5,000.00",Mobile App,RT-69922442,Success,SUCCESS,SUCCESS
+Success,408565687,Fund Transfer,"27/05/2025, 18:05:39",ISHAN ENTERPRISES,"4,19,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,408294549,Fund Transfer,"27/05/2025, 09:44:13",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,407980927,Fund Transfer,"26/05/2025, 12:16:08",SUSIM BHUSAL,"70,000.00",Mobile App,Susim Bhusal Fee,Success,SUCCESS,SUCCESS
+Success,407633542,Fund Transfer,"25/05/2025, 13:28:01",HIMAL CONCRETE PVT. ltd,"1,90,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,407409277,Fund Transfer,"24/05/2025, 18:44:47",YUBRAJ POKHREL,"15,160.00",Web Channel,sabitra bhusal,Success,SUCCESS,SUCCESS
+Success,407297767,Bills Payment,"24/05/2025, 10:37:51","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","6,031.94",Web Channel,BT-JR4265 KATHMANDU(KTM)-BHAIRAHAWA(BWA),Success,SUCCESS,SUCCESS
+Success,407257908,Fund Transfer,"24/05/2025, 09:25:51",KISHOR GYAWALI,"2,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,407255308,Fund Transfer,"24/05/2025, 09:14:37",KISHOR GYAWALI,"5,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,407127678,nQR,"23/05/2025, 17:33:43",PRIME MOTORS PVT.LTD,"20,000.00",Mobile App,PRIME MOTORS PVT.LTD,Success,SUCCESS,SUCCESS
+Success,406946440,Fund Transfer,"23/05/2025, 10:37:12",BHUSAL OIL CENTER,"75,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406946122,Fund Transfer,"23/05/2025, 10:36:23",Siddhartha Hardwares Pvt. Ltd.,"19,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406701003,Fund Transfer,"22/05/2025, 14:38:48",SURENDRA PAUDEL,"10,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,406564309,Fund Transfer,"22/05/2025, 09:41:14",BASANTA PRASAD BHUSAL,"19,00,000.00",Web Channel,anar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406426388,Fund Transfer,"21/05/2025, 17:41:16",dreams international holidays pvt ltd,"5,00,000.00",Web Channel,basanta prasad bhusal,Success,SUCCESS,SUCCESS
+Success,406375232,Fund Transfer,"21/05/2025, 15:48:55",RUBY INCORPORATES PVT LTD,"33,825.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406363657,Fund Transfer,"21/05/2025, 15:26:24",SWADTIKA BHUSAL,"10,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406234208,Fund Transfer,"21/05/2025, 10:42:07",RAM VARAN CHAUDHARY,"40,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,406200292,Fund Transfer,"21/05/2025, 09:02:02",BHUBAN PANDEY,"1,07,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,406110753,Fund Transfer,"20/05/2025, 19:33:20",SWADTIKA BHUSAL,"9,725.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,406016896,Fund Transfer,"20/05/2025, 16:01:56",Om ekata baluwa prasodhan udhyog,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405999479,Fund Transfer,"20/05/2025, 15:28:49",geo testing and construction pvt.ltd.,"1,01,700.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405985977,Fund Transfer,"20/05/2025, 14:58:42",BINDA KUMARI  CHAUDHARY THARU,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405895982,Fund Transfer,"20/05/2025, 11:57:34",PITAMBAR  SEJWAL,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,405893042,Fund Transfer,"20/05/2025, 11:50:31",Aon construction,"1,30,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405732285,Fund Transfer,"19/05/2025, 19:03:21",UMESH KHADKA,"45,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,405711482,Fund Transfer,"19/05/2025, 18:15:24",Swastika Bhusal,"12,365.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405705195,Fund Transfer,"19/05/2025, 18:00:24",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405562508,Fund Transfer,"19/05/2025, 13:03:21",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,405477030,Fund Transfer,"19/05/2025, 10:09:10",PADAM SHRESTHA,"13,700.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,404813066,Fund Transfer,"18/05/2025, 14:24:39",SWADTIKA BHUSAL,"8,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,404808510,Fund Transfer,"18/05/2025, 14:17:22",bhim bahadur khatri,"45,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,404796445,Fund Transfer,"18/05/2025, 13:53:50",Bhusal Disels,"20,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,404795333,Fund Transfer,"18/05/2025, 13:51:18",PITAMBAR  SEJWAL,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Failed,404763158,Fund Transfer,"18/05/2025, 12:54:40",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,404433947,Fund Transfer,"17/05/2025, 10:15:07",ROSHAN CHHETRI,"22,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,404307826,Fund Transfer,"16/05/2025, 17:56:28",BHUSAL OIL CENTER,"20,009.00",Web Channel,amar nirman  sewa,Success,SUCCESS,SUCCESS
+Success,404134119,Fund Transfer,"16/05/2025, 11:45:33",Bhusal Disels,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,404127021,Fund Transfer,"16/05/2025, 11:33:25",Bhusal Disels,"2,00,000.00",Web Channel,amar nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,404107381,Fund Transfer,"16/05/2025, 10:57:07",AKHTAR ALI KHAN,"16,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,403803036,Fund Transfer,"15/05/2025, 13:32:48",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,403544515,Fund Transfer,"14/05/2025, 18:03:56",basanta prasad bhusal,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,403490009,Fund Transfer,"14/05/2025, 16:15:39",MOBILE POINT SALES AND REPARING CENTER PVT.LTD.,"1,84,000.00",Web Channel,saksham bhusal,Success,SUCCESS,SUCCESS
+Success,402934235,Fund Transfer,"13/05/2025, 14:26:08",Ishan enterprises,"2,09,648.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,402766093,Bills Payment,"13/05/2025, 08:55:56",Shree Airlines B2C,"5,000.00",Web Channel,Flight booking for SAOW1747105781537,Failed,Debit Failure.,Debit Failure.
+Success,402477138,Fund Transfer,"12/05/2025, 09:59:28",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,402150175,Fund Transfer,"11/05/2025, 12:37:53",BHARAT PRASAD DHAKAL,"83,857.00",Web Channel,basanta prasad bhusal,Success,SUCCESS,SUCCESS
+Success,402094000,Fund Transfer,"11/05/2025, 11:07:34",Chhatradevi Trading and suppliers pvt.ltd.,"6,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,401621364,Fund Transfer,"09/05/2025, 16:43:42",ANJU  GURUNG,"20,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,401609292,Fund Transfer,"09/05/2025, 16:12:36",TEK BAHADUR  KUMAL,"38,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,401581816,Fund Transfer,"09/05/2025, 15:13:53",Dipak khanal,"40,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,401491388,Fund Transfer,"09/05/2025, 12:45:33",Rina Kumari Rana Magar,"30,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,401490398,Fund Transfer,"09/05/2025, 12:43:49",Dil kumari banshi,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,401472978,Fund Transfer,"09/05/2025, 12:23:00",Dabale giro,"4,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,401470082,Fund Transfer,"09/05/2025, 12:18:33",Dabale giro,"4,00,000.00",Web Channel,amar nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,401433981,Fund Transfer,"09/05/2025, 11:24:10",Chhatradevi Trading and suppliers pvt.ltd.,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,401431479,Fund Transfer,"09/05/2025, 11:19:42",Sita chepang,"20,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400963427,Fund Transfer,"08/05/2025, 11:31:00",GAIBON BOX NEPAL PVT.ltd.,"35,000.00",Web Channel,anar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400962377,Fund Transfer,"08/05/2025, 11:29:35",GAIBON BOX NEPAL PVT.ltd.,"50,000.00",Web Channel,anar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400953456,Fund Transfer,"08/05/2025, 11:11:04",NEW SIDHARTHA DISEL CENTER,"5,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400893885,Fund Transfer,"08/05/2025, 08:30:26",Bhusal Disels,"1,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400699482,Fund Transfer,"07/05/2025, 15:32:18",Chhatradevi Trading and suppliers pvt.ltd.,"8,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,400621235,Fund Transfer,"07/05/2025, 13:13:32",DINESH SHAHI,"24,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,400515726,Fund Transfer,"07/05/2025, 09:44:08",Chhatradevi Trading and suppliers pvt.ltd.,"6,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,400515119,Fund Transfer,"07/05/2025, 09:41:35",Chhatradevi Trading and suppliers pvt.ltd.,"8,00,000.00",Web Channel,amar  nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,400501547,Fund Transfer,"07/05/2025, 08:52:42",DIPAK SHRESTHA,"20,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,400287047,Fund Transfer,"06/05/2025, 14:39:32",YAGYA PRASAD BELBASE,"30,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,400199774,Fund Transfer,"06/05/2025, 11:42:04",Siddhartha Hardwares Pvt. Ltd.,"19,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398836708,Fund Transfer,"02/05/2025, 12:17:58",BASANTA PRASAD BHUSAL,"15,000.00",Mobile App,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,398783668,Fund Transfer,"02/05/2025, 10:55:49",DIPAK SHRESTHA,"20,000.00",Mobile App,Amar Nirman Sewa,Failed,Debit Failure.,Debit Failure.
+Failed,398782670,Fund Transfer,"02/05/2025, 10:54:05",DIPAK SHRESTHA,"20,000.00",Mobile App,Amar Nirman Sewa,Failed,Debit Failure.,Debit Failure.
+Success,398709198,Fund Transfer,"02/05/2025, 07:34:59",Swastika Bhusal,"5,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398528012,Fund Transfer,"01/05/2025, 12:14:53",Sunrise DIESELS,"2,29,600.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398471842,Fund Transfer,"01/05/2025, 08:27:30",DINESH SHAHI,"28,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,398336661,Fund Transfer,"30/04/2025, 17:05:40",DUGAR EARTHMOVERS BUTWAL,"37,411.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398284287,Fund Transfer,"30/04/2025, 15:19:14",BHUSAL OIL CENTER,"1,42,860.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398247708,Fund Transfer,"30/04/2025, 13:59:17",Sunrise DIESELS,"2,31,200.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,398035125,Fund Transfer,"30/04/2025, 06:56:18",BASANTA PRASAD BHUSAL,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,397711981,Fund Transfer,"29/04/2025, 10:45:30",UMESH KATUWAL,"8,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,395619630,Fund Transfer,"27/04/2025, 16:35:22",GOPAL BDR RANA,"1,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,395566316,Fund Transfer,"27/04/2025, 15:20:15",KESHAB RAJ BHUSAL,"1,00,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,395190744,Fund Transfer,"26/04/2025, 18:17:45",Swastika Bhusal,"1,25,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,395189934,nQR,"26/04/2025, 18:15:50",KABIR AUTOMOBILES,"1,00,000.00",Mobile App,KABIR AUTOMOBILES,Success,SUCCESS,SUCCESS
+Success,395142956,Fund Transfer,"26/04/2025, 15:49:21",KUBIJA CHAUDARY,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,395084478,Fund Transfer,"26/04/2025, 12:39:56",Bhusal Disels,"1,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,395074341,Fund Transfer,"26/04/2025, 12:02:08",PREM SHERPA,"1,00,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,394641531,Fund Transfer,"25/04/2025, 10:54:48",Swastika Bhusal,"20,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,394460144,Fund Transfer,"24/04/2025, 18:32:46",Rishi ram adhikari,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,394440681,Fund Transfer,"24/04/2025, 17:48:37",Swastika Bhusal,"10,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,394406011,Fund Transfer,"24/04/2025, 16:38:15",DINESH SHAHI,"14,400.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,394221508,Fund Transfer,"24/04/2025, 10:42:06",Bhajuratna Agency p.ltd,"1,88,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,394188119,Bills Payment,"24/04/2025, 09:13:44",Nepal Telecom Topup,"2,000.00",Mobile App,RT-67441420,Success,SUCCESS,SUCCESS
+Success,394157441,Fund Transfer,"24/04/2025, 06:43:07",Bhusal Disels,"31,275.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393919414,Bills Payment,"23/04/2025, 17:37:47","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","13,399.97",Web Channel,BT-SY5378 BHADRAPUR (JHAPA)(BDP)-KATHMANDU(KTM),Success,SUCCESS,SUCCESS
+Success,393882738,Fund Transfer,"23/04/2025, 16:51:18",Gaire international,"41,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393743916,Fund Transfer,"23/04/2025, 12:53:14",NEW SIDDHARTHA DISEL CENTER,"44,749.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393740370,Fund Transfer,"23/04/2025, 12:48:35",SWADTIKA BHUSAL,"16,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393346475,Fund Transfer,"22/04/2025, 12:51:44",POWER ONE WORKSHOP,"12,100.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393242671,Fund Transfer,"22/04/2025, 08:39:00",Atal cement pvt.ltd.,"1,39,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393242297,Fund Transfer,"22/04/2025, 08:37:17",SUNRISE DIESEL,"2,89,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,393076787,nQR,"21/04/2025, 19:19:41",NAVA DURGA WORKSHOP,"53,000.00",Mobile App,NAVA DURGA WORKSHOP,Success,SUCCESS,SUCCESS
+Success,392872185,Fund Transfer,"21/04/2025, 14:38:02",UNITED HEAVY EQUIPMENT AND EARTH MOVERS PRIVATE LIMITED,"1,14,800.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392721926,Fund Transfer,"21/04/2025, 10:06:43",Giri bahadur darlami,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392720639,Fund Transfer,"21/04/2025, 10:03:34",CITIZEN SUPPLIERS PVT LTD,"3,60,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392578356,Fund Transfer,"20/04/2025, 17:57:25",PARAJULI MACHINERY STORES,"25,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392305619,nQR,"20/04/2025, 12:49:52",NAVA DURGA WORKSHOP,"55,000.00",Mobile App,NAVA DURGA WORKSHOP,Success,SUCCESS,SUCCESS
+Success,392291029,Fund Transfer,"20/04/2025, 12:31:44",Atal cement pvt.ltd.,"2,29,400.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392239000,Fund Transfer,"20/04/2025, 11:04:30",Bhusal Disels,"5,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392212558,Fund Transfer,"20/04/2025, 10:10:11",PRADIP MISHRA,"1,00,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,392044643,Fund Transfer,"19/04/2025, 15:54:04",BANGANGA CRUSHER UDHYOG PVT. LTD.,"1,95,750.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,392022477,Fund Transfer,"19/04/2025, 14:15:59",RAHAMAT MIYA DHOBI,"18,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,391869672,Fund Transfer,"18/04/2025, 19:34:42",Swargadwari and supadeurali  oil sup,"4,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,391825917,Fund Transfer,"18/04/2025, 17:21:32",PRAKASH BAHADUR DANGAURA,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,391771077,Fund Transfer,"18/04/2025, 14:54:34",BHUSAL OIL CENTER,"20,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,391767630,Fund Transfer,"18/04/2025, 14:46:47",BHUSAL OIL CENTER,"20,000.00",Web Channel,amar nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,391233407,Fund Transfer,"17/04/2025, 17:22:38",PRAKASH BAHADUR DANGAURA,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,391196831,Fund Transfer,"17/04/2025, 16:31:51",SWASTIKA BHUSAL,"10,400.00",Mobile App,Swas,Success,SUCCESS,SUCCESS
+Success,390875793,Fund Transfer,"16/04/2025, 20:00:02",SWADTIKA BHUSAL,"15,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,390606018,Fund Transfer,"16/04/2025, 13:21:48",MOBILE POINT SALES AND REPAIRING CENTER PVT LTD,"1,17,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,390555633,Fund Transfer,"16/04/2025, 11:47:07",Sita chepang,"15,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,390499756,Fund Transfer,"16/04/2025, 09:53:22",DIPAK PAUDEL,"3,28,700.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,390388918,Fund Transfer,"15/04/2025, 19:05:05",HARI PRASAD ARYAL,"1,00,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,390247866,Fund Transfer,"15/04/2025, 14:32:59",NABARAJ TIMALSINA,"20,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,390169046,Fund Transfer,"15/04/2025, 12:06:09",RAM KUMAR MAHATO THARU,"16,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,386889965,Fund Transfer,"08/04/2025, 17:29:35",Geo Testing and construction pvt.lyd.,"10,848.00",Web Channel,iccha nirman sewa,Success,SUCCESS,SUCCESS
+Success,386618045,Fund Transfer,"08/04/2025, 13:06:46",Swastika Bhusal,"1,00,000.00",Web Channel,swastika bhusal,Success,SUCCESS,SUCCESS
+Success,386604460,Fund Transfer,"08/04/2025, 12:46:31",Susim Bhusal,"1,40,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,386596726,Fund Transfer,"08/04/2025, 12:34:45",SAKSHAM BHUSAL,500.00,Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,386593732,Fund Transfer,"08/04/2025, 12:31:53",SAKSHAM BHUSAL,"70,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,386470618,Fund Transfer,"08/04/2025, 07:57:46",KISAN PRASAD BANJADE SHARMA,"10,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385311687,Fund Transfer,"07/04/2025, 14:33:38",SWADTIKA BHUSAL,"4,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385292651,Fund Transfer,"07/04/2025, 14:17:40",BHUSAL OIL CENTER,"92,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385222356,Fund Transfer,"07/04/2025, 13:06:25",HASTA BAHADUR SUNAR,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385217769,Fund Transfer,"07/04/2025, 13:00:57",KISHOR GYAWALI,"11,500.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,385141971,Fund Transfer,"07/04/2025, 11:11:04",Dreams international holidays pvt ltd,"5,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385062426,Fund Transfer,"07/04/2025, 07:04:30",BHUSAL OIL CENTER,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385062169,Fund Transfer,"07/04/2025, 07:03:18",Guru travels limited,"5,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,385062084,Fund Transfer,"07/04/2025, 07:02:32",Tank bahadur oli,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,384986324,Fund Transfer,"06/04/2025, 19:41:21",Swastika Bhusal,"30,000.00",Web Channel,swas,Success,SUCCESS,SUCCESS
+Success,384874297,Fund Transfer,"06/04/2025, 14:17:29",Guru travels limited,"5,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,384873117,Fund Transfer,"06/04/2025, 14:14:33",Atal cement pvt.ltd.,"1,29,250.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,384872803,Fund Transfer,"06/04/2025, 14:13:31",Atal cement pvt.ltd.,"2,33,100.00",Web Channel,siddhartha amar k. brothers jv,Success,SUCCESS,SUCCESS
+Success,384871666,Fund Transfer,"06/04/2025, 14:10:24",GOPAL BDR RANA,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,384866535,Fund Transfer,"06/04/2025, 13:56:22",BHUSAL OIL CENTER,"3,00,000.00",Web Channel,amar nkrman sewa,Success,SUCCESS,SUCCESS
+Success,384862965,Fund Transfer,"06/04/2025, 13:45:38",Sabin sunar,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,384860823,Fund Transfer,"06/04/2025, 13:39:41",Dabale biri,"3,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,384859722,Bills Payment,"06/04/2025, 13:36:10","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","17,485.62",Web Channel,BT-DN7809 BHAIRAHAWA(BWA)-KATHMANDU(KTM),Success,SUCCESS,SUCCESS
+Success,384818970,Fund Transfer,"06/04/2025, 11:56:57",MAN BAHADUR  KUNWAR,"26,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,384804731,Fund Transfer,"06/04/2025, 11:29:10",AKHTAR ALI KHAN,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,384549057,Fund Transfer,"05/04/2025, 11:36:33",DIPRAJ PANDEY,"31,600.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,384535432,Fund Transfer,"05/04/2025, 10:37:30",BHIM BAHADUR KHATRI,"45,000.00",Web Channel,salary,Success,SUCCESS,SUCCESS
+Success,384288177,Fund Transfer,"04/04/2025, 17:24:16",KISHOR GYAWALI,"11,500.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,384051221,Fund Transfer,"04/04/2025, 12:51:39",Bhusal Disels,"62,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,383936184,Fund Transfer,"04/04/2025, 09:39:44",Hum bahadur sunar,"3,05,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,383927995,Fund Transfer,"04/04/2025, 09:13:32",LAXMAN  GHIMIRE,"5,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,383926936,Fund Transfer,"04/04/2025, 09:08:57",SWADTIKA BHUSAL,"10,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,383902382,Bills Payment,"04/04/2025, 07:06:50","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","6,111.04",Web Channel,BT-WJ6642 KATHMANDU(KTM)-BHAIRAHAWA(BWA),Success,SUCCESS,SUCCESS
+Success,383740720,Fund Transfer,"03/04/2025, 18:51:27",Bigyan neupane,"1,39,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,383670541,Fund Transfer,"03/04/2025, 17:59:27",BHAJURATNA AGENCY PVT LTD,"23,611.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,383200721,Fund Transfer,"03/04/2025, 13:16:00",KISHOR GYAWALI,"11,500.00",Web Channel,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,383118584,Fund Transfer,"03/04/2025, 12:00:59",BALARAM BHATTARAI,"50,000.00",Web Channel,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Failed,383045913,Fund Transfer,"03/04/2025, 10:47:09",BALARAM BHATTARAI,"50,000.00",Web Channel,Amar Nirman Sewa,Failed,Debit Failure.,Debit Failure.
+Success,383030599,Fund Transfer,"03/04/2025, 10:39:29",BALARAM BHATTARAI,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,381383422,Fund Transfer,"02/04/2025, 13:31:01",KISHOR GYAWALI,"11,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,381315851,Fund Transfer,"02/04/2025, 11:27:15",Sita Chepang,"10,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,381242003,Fund Transfer,"02/04/2025, 06:53:09",Shree Vinayak motors,"1,33,700.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380935128,Fund Transfer,"01/04/2025, 12:44:42",Keshab ghimire,"1,00,000.00",Web Channel,amar nirman seaa,Success,SUCCESS,SUCCESS
+Success,380839171,Fund Transfer,"01/04/2025, 09:19:45",Dipak Khanal,"5,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,380838906,Fund Transfer,"01/04/2025, 09:18:21",BASANTA BOHARA,"15,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,380618467,Bills Payment,"31/03/2025, 12:01:10","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","9,999.95",Web Channel,BT-JF8174 KATHMANDU(KTM)-BHAIRAHAWA(BWA),Success,SUCCESS,SUCCESS
+Success,380587701,Fund Transfer,"31/03/2025, 10:37:48",Anjana nirman sewa company p.lyd.,"9,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380470682,Fund Transfer,"30/03/2025, 18:38:56",KISHOR GYAWALI,"11,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,380366970,Fund Transfer,"30/03/2025, 14:59:49",BHUSAL OIL CENTER,"4,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380328519,Fund Transfer,"30/03/2025, 13:47:14",Aon construction,"2,28,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380267283,nQR,"30/03/2025, 11:52:09",NEW GORKHA SHOPPING CENTR,"10,610.00",Mobile App,NEW GORKHA SHOPPING CENTR,Success,SUCCESS,SUCCESS
+Success,380244162,Fund Transfer,"30/03/2025, 11:08:43",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380197891,Fund Transfer,"30/03/2025, 08:59:38",BHUSAL OIL CENTER,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,380091039,Fund Transfer,"29/03/2025, 17:06:16",KESHAB GHIMIRE,"11,500.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,380003818,Fund Transfer,"29/03/2025, 11:15:55",RAJ KUMAR  THAPA,"1,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,379989409,Fund Transfer,"29/03/2025, 10:21:22",Prime Motors Pvt. Ltd.,"3,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379989118,Fund Transfer,"29/03/2025, 10:19:35",Prime Motors Pvt. Ltd.,"63,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379983161,Fund Transfer,"29/03/2025, 09:46:51",Bhanubhakta gautam,"3,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379982354,nQR,"29/03/2025, 09:41:40",NEW SUJAL SHOE CENTRE,"10,000.00",Mobile App,NEW SUJAL SHOE CENTRE,Success,SUCCESS,SUCCESS
+Success,379871550,Fund Transfer,"28/03/2025, 17:49:03",KESHAB GHIMIRE,"60,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,379833564,Fund Transfer,"28/03/2025, 15:46:11",KISHOR GYAWALI,"11,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,379820335,Fund Transfer,"28/03/2025, 15:07:01",PITAMBAR  SEJWAL,"25,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,379818160,Fund Transfer,"28/03/2025, 15:01:34",SANTOSH CHAUDHARY,"1,00,000.00",Mobile App,Anar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,379742165,Fund Transfer,"28/03/2025, 12:28:03",Atal cement pvt.ltd.,"1,41,750.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379741663,Fund Transfer,"28/03/2025, 12:26:54",Atal cement pvt.ltd.,"2,33,100.00",Web Channel,siddhartha amar k brothers jv,Success,SUCCESS,SUCCESS
+Success,379651472,Fund Transfer,"28/03/2025, 08:31:59",Ram prasad banjade,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379533403,Fund Transfer,"27/03/2025, 17:46:27",Geo Testing and construction pvt.ltd.,"16,102.00",Web Channel,ichha nirman sewa,Success,SUCCESS,SUCCESS
+Success,379398857,Fund Transfer,"27/03/2025, 13:17:23",RESHAM BHANDARI,"6,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,379398461,Fund Transfer,"27/03/2025, 13:16:22",Dil kumari banshi,"25,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379293477,Fund Transfer,"27/03/2025, 09:18:29",KISHOR GYAWALI,"12,000.00",Mobile App,Amar Nirman Swaa,Success,SUCCESS,SUCCESS
+Success,379156162,Fund Transfer,"26/03/2025, 17:05:53",Atal cement pvt.ltd.,"1,92,400.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,379119363,Bills Payment,"26/03/2025, 15:44:30","MALARANI RURAL MUNICIPALITY, ARGHAKHACHI","60,000.00",Mobile App,LG0N REV PAYMENT,Success,SUCCESS,SUCCESS
+Success,379067332,Fund Transfer,"26/03/2025, 13:58:29",Geo Testing and construction pvt.ltd.,"22,600.00",Web Channel,ichha nirman sewa,Success,SUCCESS,SUCCESS
+Success,378985900,Fund Transfer,"26/03/2025, 11:16:18",krishna prasad poudel,"3,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,378743302,Fund Transfer,"25/03/2025, 14:51:42",Neco Insurance Company,"1,57,660.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,378623501,Fund Transfer,"25/03/2025, 11:20:25",MAN BAHADUR  KUNWAR,"10,400.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,378291045,Fund Transfer,"24/03/2025, 11:47:51",Bhusal Disels,"4,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,378282222,Fund Transfer,"24/03/2025, 11:31:46",Geo Testing and construction pvt.ltd.,"1,06,672.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,378263227,Fund Transfer,"24/03/2025, 10:49:47",Ichchha nirman sewa,"10,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,378163455,Fund Transfer,"23/03/2025, 20:04:19",SWADTIKA BHUSAL,"5,000.00",Web Channel,amar,Success,SUCCESS,SUCCESS
+Success,377909466,Fund Transfer,"23/03/2025, 11:09:18",Sandesh karki,"8,00,000.00",Web Channel,swastika bhusal,Success,SUCCESS,SUCCESS
+Success,377896166,Fund Transfer,"23/03/2025, 10:36:55",Amar nirman sewa,"3,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,377876636,Fund Transfer,"23/03/2025, 09:37:56",Amar Nirman Sewa,"3,00,000.00",Web Channel,amar nirman sewa,Failed,Debit Failure.,Debit Failure.
+Success,377595670,Fund Transfer,"21/03/2025, 18:00:57",KISHOR GYAWALI,"11,500.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,377426886,Fund Transfer,"21/03/2025, 11:22:08",Gaire International,"74,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,377425960,Fund Transfer,"21/03/2025, 11:19:46",G & Company,"12,55,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Failed,375911929,Bills Payment,"18/03/2025, 11:04:54","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","10,800.54",Web Channel,BT-ZF6310 KATHMANDU(KTM)-BHAIRAHAWA(BWA),Failed,Debit Failure.,Debit Failure.
+Success,375786099,Fund Transfer,"17/03/2025, 18:47:49",binod radiator service,"7,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,375770517,Fund Transfer,"17/03/2025, 18:11:17",Dipak pokhrel,"81,200.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,375767369,Fund Transfer,"17/03/2025, 18:01:48",Padam Shrestha,"9,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,375733861,Fund Transfer,"17/03/2025, 16:42:28",Rajesh katuwal,"11,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,375614729,Fund Transfer,"17/03/2025, 12:32:23",SAJAN RUPAKHETI,"2,000.00",Mobile App,Amar Nirman Seaa,Success,SUCCESS,SUCCESS
+Success,375611135,Fund Transfer,"17/03/2025, 12:27:42",SAJAN RUPAKHETI,"5,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,375514618,Fund Transfer,"17/03/2025, 07:43:12",BIKRAM CHEPANG,"15,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,375465399,Bills Payment,"16/03/2025, 20:10:29","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","4,599.50",Web Channel,BT-XP9177 BHAIRAHAWA(BWA)-KATHMANDU(KTM),Success,SUCCESS,SUCCESS
+Success,375281751,Bills Payment,"16/03/2025, 13:57:36","Buddha Air (P) Ltd. - Jawalakhel, Kathmandu","5,100.82",Web Channel,BT-XZ9624 BHAIRAHAWA(BWA)-KATHMANDU(KTM),Success,SUCCESS,SUCCESS
+Success,375193381,Fund Transfer,"16/03/2025, 11:30:15",BHUSAL OIL CENTER,"3,90,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374945226,Fund Transfer,"15/03/2025, 10:56:09",BHUSAL OIL CENTER,"20,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374944433,Fund Transfer,"15/03/2025, 10:51:58",BHUSAL OIL CENTER,"2,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374824736,Fund Transfer,"14/03/2025, 17:28:23",PRASRISTI NIRMAN SEWA,"50,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,374670651,Fund Transfer,"14/03/2025, 10:07:18",BISHNU BDR PUN,"70,000.00",Mobile App,Amar Nirman Sewa,Success,SUCCESS,SUCCESS
+Success,374656170,Fund Transfer,"14/03/2025, 09:16:19",RAM VARAN CHAUDHARY,"10,000.00",Mobile App,Amarnirmansewa,Success,SUCCESS,SUCCESS
+Success,374428255,Fund Transfer,"13/03/2025, 11:19:44",Dipak kumar sapkota,"50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374384175,Fund Transfer,"13/03/2025, 08:52:51",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374093939,Fund Transfer,"12/03/2025, 14:57:52",Atal cement pvt.ltd.,"1,92,400.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374060791,Fund Transfer,"12/03/2025, 14:07:55",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,374051300,Fund Transfer,"12/03/2025, 13:51:45",Bhusal Disels,"1,10,500.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,373950257,Fund Transfer,"12/03/2025, 11:14:40",Bhusal Disels,"5,00,000.00",Web Channel,amar njrmam sewa,Success,SUCCESS,SUCCESS
+Success,373892966,Fund Transfer,"12/03/2025, 09:05:17",Swastika Bhusal,"2,50,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
+Success,373892461,Fund Transfer,"12/03/2025, 09:03:17",BHUSAL OIL CENTER,"1,00,000.00",Web Channel,amar nirman sewa,Success,SUCCESS,SUCCESS
